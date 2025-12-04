@@ -26,4 +26,4 @@
 
 ## 🙌 Acknowledgements
 
-This project is built upon the excellent work of **[F5-TTS](https://github.com/SWivid/F5-TTS)** and **[Zip-Voice](https://github.com/k2-fsa/ZipVoice)**. We thank the authors for their open-source contributions.
+This project is built upon the excellent work of **[F5-TTS](https://github.com/SWivid/F5-TTS)**, **[MMAudio](https://github.com/hkchengrex/MMAudio)** and **[Zip-Voice](https://github.com/k2-fsa/ZipVoice)**. We thank the authors for their open-source contributions.
