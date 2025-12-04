@@ -1,9 +1,7 @@
-<!-- 标题：M3-TTS 使用蓝紫粉渐变色 -->
-# $\Huge \boldsymbol{\color{#6366f1}\text{M}\color{#a855f7}\text{3}\color{black}\text{-}\color{#ec4899}\text{TTS}}$
 
-<!-- 副标题：三个 M 使用红色 -->
-### $\Large \boldsymbol{\color{#de2910}\text{M}\text{ulti-}\color{#de2910}\text{m}\text{odal DiT Alignment \& }\color{#de2910}\text{M}\text{el-latent}}$
-### $\large \text{for Zero-shot High-fidelity Speech Synthesis}$
+# $\Huge \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}$
+### $\Large \mathsf{\color{#e11d48}M\text{ulti-}\color{#e11d48}m\text{odal\ DiT\ Alignment\ \&\ }\color{#e11d48}M\text{el-latent}}$
+### $\small \mathsf{\text{for\ Zero-shot\ High-fidelity\ Speech\ Synthesis}}$
 
 <div align="center">
 
