@@ -38,7 +38,10 @@ This project is built upon the excellent work of **[F5-TTS](https://github.com/S
 
 
 
-## ✒️ Citation
+## 📝 Citation
+
+If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝:
+
 ```bibtex
 @article{wang2026m3tts,
   title={M3-TTS: Multi-modal DiT Alignment \& Mel-latent for Zero-shot High-fidelity Speech Synthesis},
