@@ -1,7 +1,7 @@
 
 # $\Huge \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text{-}TTS}}$
-### $\Large \mathsf{\color{#e11d48}M\text{ulti-}\color{#e11d48}m\text{odal\ DiT\ Alignment\ \&\ }\color{#e11d48}M\text{el-latent}}$
-### $\small \mathsf{\text{for\ Zero-shot\ High-fidelity\ Speech\ Synthesis}}$
+\mathsf{\color{#de2910}M\text{ulti-}\color{#de2910}m\text{odal\ DiT\ Alignment\ \&\ }\color{#de2910}M\text{el-latent}}$
+
 
 <div align="center">
 
