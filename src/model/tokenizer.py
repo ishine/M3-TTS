@@ -650,7 +650,7 @@ if __name__ == "__main__":
         # "霍...啦啦啦超过90%的人<le5>...?!9204"
         "S.R.O.S.P.O.L.S.R.O.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P.O.L.S.P."
     )
-    tokenizer = EmiliaTokenizer('/mmu-audio-ssd/tts/qiangchunyu/tts/zipvoice/ZipVoice/data/tokens_emilia.txt')
+    tokenizer = EmiliaTokenizer('tokens_emilia.txt')
     tokens = tokenizer.texts_to_tokens([text])
     token_ids = tokenizer.texts_to_token_ids([text])
     print(f"tokens: ", tokens)
