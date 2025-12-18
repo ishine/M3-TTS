@@ -4,6 +4,7 @@ $\Large \boldsymbol{\mathsf{\color{#6366f1}M\color{#a855f7}3\color{#ec4899}\text
 
 </div>
 
+
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2512.04720)
